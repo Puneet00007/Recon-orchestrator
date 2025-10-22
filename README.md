@@ -75,9 +75,15 @@ First, ensure you have Go installed. If not, you can download it from the Offici
 
 Alternatively, on Linux/macOS, you can use a package manager:
 
-macOS (Homebrew): brew install go
+macOS (Homebrew):
 
-Debian/Ubuntu: sudo apt update && sudo apt install golang -y
+brew install go
+
+
+Debian/Ubuntu:
+
+sudo apt update && sudo apt install golang -y
+
 
 Step 2: Install Core Tools
 
